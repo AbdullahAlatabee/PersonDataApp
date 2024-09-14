@@ -1,0 +1,6 @@
+12345;Abdullah Hassan Al-atabee;Ibb city
+1234;Ala saleh;Yemen
+12345; Said; sanaa
+1111;hassan;taiz
+
+1212;rger;gethg

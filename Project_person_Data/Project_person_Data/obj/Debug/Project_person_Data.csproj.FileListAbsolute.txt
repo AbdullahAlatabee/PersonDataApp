@@ -1,0 +1,11 @@
+C:\Users\CFP\source\repos\Project_person Data\Project_person Data\bin\Debug\Project_person Data.exe.config
+C:\Users\CFP\source\repos\Project_person Data\Project_person Data\bin\Debug\Project_person Data.exe
+C:\Users\CFP\source\repos\Project_person Data\Project_person Data\bin\Debug\Project_person Data.pdb
+C:\Users\CFP\source\repos\Project_person Data\Project_person Data\obj\Debug\Project_person Data.csproj.AssemblyReference.cache
+C:\Users\CFP\source\repos\Project_person Data\Project_person Data\obj\Debug\Project_person Data.csproj.SuggestedBindingRedirects.cache
+C:\Users\CFP\source\repos\Project_person Data\Project_person Data\obj\Debug\Project_person_Data.Form1.resources
+C:\Users\CFP\source\repos\Project_person Data\Project_person Data\obj\Debug\Project_person_Data.Properties.Resources.resources
+C:\Users\CFP\source\repos\Project_person Data\Project_person Data\obj\Debug\Project_person Data.csproj.GenerateResource.cache
+C:\Users\CFP\source\repos\Project_person Data\Project_person Data\obj\Debug\Project_person Data.csproj.CoreCompileInputs.cache
+C:\Users\CFP\source\repos\Project_person Data\Project_person Data\obj\Debug\Project_person Data.exe
+C:\Users\CFP\source\repos\Project_person Data\Project_person Data\obj\Debug\Project_person Data.pdb
