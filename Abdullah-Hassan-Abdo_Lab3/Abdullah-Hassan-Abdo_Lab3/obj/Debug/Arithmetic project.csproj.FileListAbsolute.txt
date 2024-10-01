@@ -1,0 +1,15 @@
+C:\Users\CFP\source\repos\Arithmetic project\Arithmetic project\bin\Debug\Arithmetic project.exe.config
+C:\Users\CFP\source\repos\Arithmetic project\Arithmetic project\bin\Debug\Arithmetic project.exe
+C:\Users\CFP\source\repos\Arithmetic project\Arithmetic project\bin\Debug\Arithmetic project.pdb
+C:\Users\CFP\source\repos\Arithmetic project\Arithmetic project\obj\Debug\Arithmetic project.csproj.AssemblyReference.cache
+C:\Users\CFP\source\repos\Arithmetic project\Arithmetic project\obj\Debug\Arithmetic project.csproj.SuggestedBindingRedirects.cache
+C:\Users\CFP\source\repos\Arithmetic project\Arithmetic project\obj\Debug\Arithmetic_project.Form1.resources
+C:\Users\CFP\source\repos\Arithmetic project\Arithmetic project\obj\Debug\Arithmetic_project.Properties.Resources.resources
+C:\Users\CFP\source\repos\Arithmetic project\Arithmetic project\obj\Debug\Arithmetic project.csproj.GenerateResource.cache
+C:\Users\CFP\source\repos\Arithmetic project\Arithmetic project\obj\Debug\Arithmetic project.csproj.CoreCompileInputs.cache
+C:\Users\CFP\source\repos\Arithmetic project\Arithmetic project\obj\Debug\Arithmetic project.exe
+C:\Users\CFP\source\repos\Arithmetic project\Arithmetic project\obj\Debug\Arithmetic project.pdb
+C:\Users\CFP\source\repos\Arithmetic project\Arithmetic project\obj\Debug\Arithmetic_project.sender.resources
+C:\Users\CFP\source\repos\Arithmetic project\Arithmetic project\obj\Debug\Arithmetic_project.Form3.resources
+C:\Users\CFP\source\repos\Arithmetic project\Arithmetic project\obj\Debug\Arithmetic_project.Form4.resources
+C:\Users\CFP\source\repos\Arithmetic project\Arithmetic project\obj\Debug\Arithmetic_project.First_Form.resources

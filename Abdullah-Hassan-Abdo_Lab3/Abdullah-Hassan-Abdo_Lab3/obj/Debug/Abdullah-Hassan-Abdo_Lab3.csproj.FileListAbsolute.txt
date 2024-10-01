@@ -1,0 +1,15 @@
+C:\Users\CFP\source\repos\Arithmetic project\Abdullah-Hassan-Abdo_Lab3\bin\Debug\Abdullah-Hassan-Abdo_Lab3.exe.config
+C:\Users\CFP\source\repos\Arithmetic project\Abdullah-Hassan-Abdo_Lab3\bin\Debug\Abdullah-Hassan-Abdo_Lab3.exe
+C:\Users\CFP\source\repos\Arithmetic project\Abdullah-Hassan-Abdo_Lab3\bin\Debug\Abdullah-Hassan-Abdo_Lab3.pdb
+C:\Users\CFP\source\repos\Arithmetic project\Abdullah-Hassan-Abdo_Lab3\obj\Debug\Abdullah-Hassan-Abdo_Lab3.csproj.AssemblyReference.cache
+C:\Users\CFP\source\repos\Arithmetic project\Abdullah-Hassan-Abdo_Lab3\obj\Debug\Abdullah-Hassan-Abdo_Lab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\CFP\source\repos\Arithmetic project\Abdullah-Hassan-Abdo_Lab3\obj\Debug\Arithmetic_project.First_Form.resources
+C:\Users\CFP\source\repos\Arithmetic project\Abdullah-Hassan-Abdo_Lab3\obj\Debug\Arithmetic_project.Form1.resources
+C:\Users\CFP\source\repos\Arithmetic project\Abdullah-Hassan-Abdo_Lab3\obj\Debug\Arithmetic_project.sender.resources
+C:\Users\CFP\source\repos\Arithmetic project\Abdullah-Hassan-Abdo_Lab3\obj\Debug\Arithmetic_project.Form3.resources
+C:\Users\CFP\source\repos\Arithmetic project\Abdullah-Hassan-Abdo_Lab3\obj\Debug\Arithmetic_project.Form4.resources
+C:\Users\CFP\source\repos\Arithmetic project\Abdullah-Hassan-Abdo_Lab3\obj\Debug\AbdullahHassanAbdoLab3.Properties.Resources.resources
+C:\Users\CFP\source\repos\Arithmetic project\Abdullah-Hassan-Abdo_Lab3\obj\Debug\Abdullah-Hassan-Abdo_Lab3.csproj.GenerateResource.cache
+C:\Users\CFP\source\repos\Arithmetic project\Abdullah-Hassan-Abdo_Lab3\obj\Debug\Abdullah-Hassan-Abdo_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\CFP\source\repos\Arithmetic project\Abdullah-Hassan-Abdo_Lab3\obj\Debug\Abdullah-Hassan-Abdo_Lab3.exe
+C:\Users\CFP\source\repos\Arithmetic project\Abdullah-Hassan-Abdo_Lab3\obj\Debug\Abdullah-Hassan-Abdo_Lab3.pdb
